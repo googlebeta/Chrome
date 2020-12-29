@@ -1,5 +1,5 @@
 This is a joke made for all the publics
-- Warning: This is harmless and it does NOT make any harm to your computer (except to the RAM because one of the code parts starts itself)
+- Warning: This is harmless and it does NOT make any harm to your computer
 - 2nd & last warning: This prank contains "You Are An Idiot" joke program, and may alert someone that can be watching that
 ## To install this: 
 This haves ONE rule, please follow it: `DO NOT TOUCH OR CHANGE THINGS IF IT DOESNT SAY BELOW`
