@@ -1,7 +1,6 @@
 This is a joke made for all the publics
 - Warning: This is harmless and it does NOT make any harm to your computer
-- 2nd & last warning: This prank contains "You Are An Idiot" joke program, and can offend someone that can be watching that
-## To install this: 
+- 2nd & last warning: This prank contains "You Are An Idiot" joke program, and may offend someone that watches that
 This haves ONE rule, please follow it: `DO NOT TOUCH OR CHANGE THINGS IF IT DOESNT SAY BELOW`
 - [Click here](https://github.com/googlebeta/ChromePrank/releases/download/1.1/ChromeBetaP-v1.1.exe), open the EXE, click extract and wait until it gets extracted
 - Once it is extracted, open the new folder `app`
